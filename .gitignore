@@ -1,1 +1,19 @@
+# ===== Django =====
+# Base de datos local
+db.sqlite3
+
+# Archivos de migraciones
+**/migrations/*
+!**/migrations/__init__.py
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de entorno virtual
 venv/
+
+# Archivos de tu editor
+.vscode/
+.idea/
