@@ -14,6 +14,9 @@ __pycache__/
 # Archivos de entorno virtual
 venv/
 
-# Archivos de tu editor
+# Archivos subidos por usuarios
+/media/
+
+# Archivos del editor
 .vscode/
 .idea/
